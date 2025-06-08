@@ -1,4 +1,4 @@
-[gd_scene load_steps=17 format=3 uid="uid://47pwwada5dv6"]
+[gd_scene load_steps=17 format=3 uid="uid://cscadia3nful7"]
 
 [ext_resource type="Texture2D" uid="uid://cybp4cfkkl2bq" path="res://farmingTilesheetComplete.png" id="1_g7tw3"]
 [ext_resource type="Script" uid="uid://ccqtpuxqc64f1" path="res://scripts/state_machine/node_state_machine.gd" id="2_geiqb"]

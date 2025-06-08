@@ -1,13 +1,18 @@
 [gd_scene load_steps=3 format=4 uid="uid://diw2qjaefpps5"]
 
-[ext_resource type="PackedScene" uid="uid://47pwwada5dv6" path="res://Scenes/characters/Player/player.tscn" id="1_5t726"]
+<<<<<<< Updated upstream
+[ext_resource type="PackedScene" uid="uid://47pwwada5dv6" path="res://Scenes/characters/Player/Player.tscn" id="1_5t726"]
+=======
+[ext_resource type="PackedScene" uid="uid://3m3ikltj5jwi" path="res://Scenes/characters/Player/Player.tscn" id="1_5t726"]
+>>>>>>> Stashed changes
 [ext_resource type="TileSet" uid="uid://bptpjxxfvg5mn" path="res://Tilesets/game_tile.tres" id="1_co56a"]
 
 [node name="TestSceneTilemap" type="Node2D"]
 metadata/_edit_vertical_guides_ = [-75.0]
 
 [node name="Player" parent="." instance=ExtResource("1_5t726")]
-position = Vector2(315, 168)
+position = Vector2(358, 176)
+current_tool = 3
 
 [node name="GameTilemap" type="Node2D" parent="."]
 
