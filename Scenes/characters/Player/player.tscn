@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [gd_scene load_steps=56 format=3 uid="uid://47pwwada5dv6"]
 
 [ext_resource type="Script" uid="uid://c6oqu732louji" path="res://Scenes/characters/Player/player_desktop_ir_50ft_5.gd" id="1_18xvk"]
@@ -9,6 +10,19 @@
 [ext_resource type="Script" uid="uid://ba7650q5hjp5h" path="res://Scenes/characters/Player/chopping_state.gd" id="6_prpmx"]
 [ext_resource type="Script" uid="uid://djrh15kw80meg" path="res://Scenes/characters/Player/tilling_state.gd" id="8_enffi"]
 [ext_resource type="Script" uid="uid://cehagcxwl8too" path="res://Scenes/characters/Player/watering_state.gd" id="9_i6y3o"]
+=======
+[gd_scene load_steps=56 format=3 uid="uid://3m3ikltj5jwi"]
+
+[ext_resource type="Script" uid="uid://f0p7i4qtilbx" path="res://Scenes/characters/Player/player_desktop_ir_50ft_5.gd" id="1_18xvk"]
+[ext_resource type="Texture2D" path="res://Assets/Basic Charakter Spritesheet.png" id="2_prpmx"]
+[ext_resource type="Texture2D" path="res://Assets/Basic Charakter Actions.png" id="2_tp3jx"]
+[ext_resource type="Script" uid="uid://ccqtpuxqc64f1" path="res://scripts/state_machine/node_state_machine.gd" id="3_tp3jx"]
+[ext_resource type="Script" uid="uid://cbs0xee7wlcy5" path="res://Scenes/characters/Player/idle_state.gd" id="4_enffi"]
+[ext_resource type="Script" uid="uid://ckw5n2h4pv4fa" path="res://Scenes/characters/Player/walk_state.gd" id="5_i6y3o"]
+[ext_resource type="Script" uid="uid://dvtx1we2xe2fp" path="res://Scenes/characters/Player/chopping_state.gd" id="6_prpmx"]
+[ext_resource type="Script" uid="uid://cpmd44urjckn7" path="res://Scenes/characters/Player/tilling_state.gd" id="8_enffi"]
+[ext_resource type="Script" uid="uid://c5rkjhi6we3hk" path="res://Scenes/characters/Player/watering_state.gd" id="9_i6y3o"]
+>>>>>>> Stashed changes
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_8mdos"]
 atlas = ExtResource("2_tp3jx")

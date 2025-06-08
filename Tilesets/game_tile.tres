@@ -1,7 +1,12 @@
 [gd_resource type="TileSet" load_steps=5 format=3 uid="uid://bptpjxxfvg5mn"]
 
+<<<<<<< Updated upstream
 [ext_resource type="Texture2D" uid="uid://cybp4cfkkl2bq" path="res://Assets/farmingTilesheetComplete.png" id="1_f1meu"]
 [ext_resource type="Texture2D" uid="uid://0kshibauhnd6" path="res://Assets/Water+.png" id="1_np6n5"]
+=======
+[ext_resource type="Texture2D" path="res://Assets/farmingTilesheetComplete.png" id="1_f1meu"]
+[ext_resource type="Texture2D" path="res://Assets/Water+.png" id="1_np6n5"]
+>>>>>>> Stashed changes
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_8piqj"]
 texture = ExtResource("1_f1meu")
