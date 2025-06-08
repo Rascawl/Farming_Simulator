@@ -7,7 +7,8 @@
 metadata/_edit_vertical_guides_ = [-75.0]
 
 [node name="Player" parent="." instance=ExtResource("1_5t726")]
-position = Vector2(315, 168)
+position = Vector2(358, 176)
+current_tool = 1
 
 [node name="GameTilemap" type="Node2D" parent="."]
 
